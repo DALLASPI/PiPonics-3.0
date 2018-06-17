@@ -1,5 +1,4 @@
 #!/bin/bash
 mkdir /home/pi/Aquaponics/PiPonics
 cd /home/pi/Aquaponics/PiPonics
-wget https://github.com/DALLASPI/PiPonics-3.0
 unzip PiPonics3.zip
