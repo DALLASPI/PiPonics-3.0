@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir /home/pi/Aquaponics/PiPonics
+cd /home/pi/Aquaponics/PiPonics
+unzip PiPonics3.zip
